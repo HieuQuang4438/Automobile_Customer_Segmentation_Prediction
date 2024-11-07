@@ -24,6 +24,28 @@ You are required to help the manager to predict the right group of the new custo
 |Family_Size||
 |Var_1|Anonymised category for the customer|
 
+### Project Steps
+**Descriptive Analysis**
+
+**Model Selection**
+
+1. Predictive Models for Spending Scores
+    - Linear Regression
+    - Decision Tree Regressor
+    - Random Forest Regressor
+    - Gradient Boosting Regressor
+    - Support Vector Regressor
+    - Feature Importance Analysis
+2. Clustering Models for Customer Segmentation
+    - K-Means Clustering
+3. Classification Models for Customer Segmentation Prediction
+    - Logistic Regression
+    - Random Forest Classifer
+    - Gradient Boosting Classifer
+    
+*The first two parts was additionally conducted for more insights and recommendation apart from the main objective of this project which is to predict the segment of new customers.*
+
+**Business Recommendation**
 ### Final Products
 1. [Slide report](https://docs.google.com/presentation/d/1s1fAqM0nK8RfZaPK-iJCGMSYThZXJ3zdTkichKuvGQU/edit?usp=sharing)
 2. [Project notebook](./project_notebook.ipynb)
